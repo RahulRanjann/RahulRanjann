@@ -4,7 +4,7 @@ Hi 👋 My name is <a href="http://rahulranjann.github.io">Rahul Ranjan</a>
 Web Developer and programmer
 ----------------------------
 
-🌱 I’m currently learning everything 🤣 
+🌱 I’m currently learning everything 🤣 </br>
 👯 I’m looking to collaborate with other content creators 
 ⚡ Fun fact: I love to work with programming languages and play Games
 
