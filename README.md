@@ -4,7 +4,9 @@ Hi 👋 My name is Rahul Ranjan
 Web Developer and programmer
 ----------------------------
 
-🌱 I’m currently learning everything 🤣 👯 I’m looking to collaborate with other content creators ⚡ Fun fact: I love to work with programming languages and play Games
+🌱 I’m currently learning everything 🤣 
+👯 I’m looking to collaborate with other content creators 
+⚡ Fun fact: I love to work with programming languages and play Games
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://rahulranjann.github.io)
