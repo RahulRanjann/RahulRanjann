@@ -15,8 +15,6 @@ Web Developer and programmer
 * 🧠  I'm learning a new framework
 * ⚡  i'm secretly Spiderman... but don't tell anyone
 
-<a href="https://www.github.com/RahulRanjann" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RahulRanjann?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
