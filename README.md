@@ -33,8 +33,9 @@ Web Developer and programmer
 
 <p align="left"> <a href="https://discord.com/users/Rahul Ranjan#9431" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/stalin.ranjan.16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/RahulRanjann" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rahulranjan257" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/undefined/instagram-new--v2.png"/></a> <a href="https://www.linkedin.com/in/rahul-ranjan000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Vigitor counter
-[![](https://visitcount.itsvg.in/api?id=Rahul Ranjann&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=RahulRanjann&label=Profile%20Views&color=0&pretty=false" />
+</a>
 
 ### Badges
 
