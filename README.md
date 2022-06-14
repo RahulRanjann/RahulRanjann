@@ -44,7 +44,11 @@ Web Developer and programmer
 
 <a href="http://www.github.com/RahulRanjann"><img src="https://github-readme-stats.vercel.app/api?username=RahulRanjann&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RahulRanjann's GitHub stats" /></a>
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RahulRanjann&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=RahulRanjann&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
+  </a>
+</p> 
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
