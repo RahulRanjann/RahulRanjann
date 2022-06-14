@@ -4,8 +4,8 @@ Hi 👋 My name is <a href="http://rahulranjann.github.io">Rahul Ranjan</a>
 Web Developer and programmer
 ----------------------------
 
-🌱 I’m currently learning everything 🤣 </br>
-👯 I’m looking to collaborate with other content creators </br>
+🌱 I’m currently learning DSA </br>
+👯 I’m looking to collaborate with Web Devloper </br>
 ⚡ Fun fact: I love to work with programming languages and play Games</br>
 
 * 🌍  I'm based in <a href="https://i.pinimg.com/564x/01/f9/1d/01f91d6967dfedde29392a1bda00bfe2.jpg">India</a>
