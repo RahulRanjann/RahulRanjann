@@ -16,7 +16,6 @@ Web Developer and programmer
 * ⚡  i'm secretly Spiderman... but don't tell anyone
 
 
-(https://metrics.lecoq.io/RahulRanjann?template=classic&isocalendar=1&habits=1&reactions=1&projects=1&skyline=1&poopmap=1&music=1&achievements=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.charts.type=classic&habits.trim=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&projects.limit=4&projects.descriptions=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&skyline.year=2022&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&music.limit=4&music.played.at=false&music.time.range=short&music.top.type=tracks&music.user=.user.login&poopmap.days=7&config.timezone=Asia%2FCalcutta)
 
 ### Skills
 
