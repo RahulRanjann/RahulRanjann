@@ -51,7 +51,7 @@ Web Developer and programmer
 
 ### Badges
 
-<b>My Stats</b>
+<!-- <b>My Stats</b>
 
 <a href="http://www.github.com/RahulRanjann"><img src="https://github-readme-stats.vercel.app/api?username=RahulRanjann&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RahulRanjann's GitHub stats" /></a>
 ## 🏆GitHub Trophies
@@ -59,7 +59,26 @@ Web Developer and programmer
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=RahulRanjann&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
   </a>
-</p> 
+</p>  -->
+
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RahulRanjann&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRanjann&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
