@@ -32,6 +32,9 @@ Web Developer and programmer
 <p align="left">
 <a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="36" height="36" alt="C" /></a>
  <a href="https://cplusplus.com/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" width="36" height="36" alt="C++" /></a>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -78,11 +81,15 @@ Web Developer and programmer
 </td></tr></table>  
 
 <br/>  
-
-  
-
 <br/>  
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rahulranjann/rahulranjann/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
